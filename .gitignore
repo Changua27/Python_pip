@@ -1,0 +1,9 @@
+.bash_history
+.cache/
+.config/
+.dotnet/
+.local/
+.pki/
+.python_history
+.vscode/
+code.deb
